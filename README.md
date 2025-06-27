@@ -56,3 +56,16 @@ NYC Yellow Cab Trip Data (sample of 100,000+ rows)
 Source: [NYC TLC Trip Records](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 
+## 📷 Sample Output
+
+Here are some outputs from the project:
+
+### ✅ SQL Server Table Setup
+![CabTrips Table Created in SSMS](screenshot1.png)
+
+> The `CabTrips` table was successfully created in Microsoft SQL Server Management Studio.
+
+### ✅ Sample Query Output & Charts
+![Top 5 CabTrips + Bar Charts](screenshot2.png)
+
+> Preview of top 5 records from the `CabTrips` table and visual charts created in Excel for analysis.
